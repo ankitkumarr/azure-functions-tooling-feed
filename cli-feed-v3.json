@@ -63,6 +63,14 @@
       "releaseQuality": "GA",
       "targetFramework": ".NET Core",
       "hidden": false
+    },
+    "v3-net5": {
+      "release": "3.18.0",
+      "displayName": "Azure Functions v3 (.NET 5)",
+      "displayVersion": "v3",
+      "releaseQuality": "Preview",
+      "targetFramework": ".NET 5",
+      "hidden": true
     }
   },
   "releases": {
