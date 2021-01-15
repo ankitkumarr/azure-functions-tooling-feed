@@ -2,7 +2,7 @@
   "tags": {
     "v1": {
       "release": "1.13.0",
-      "displayName": "Azure Functions v1 (.NET Framework)",
+      "displayName": ".NET Framework",
       "displayVersion": "v1",
       "releaseQuality": "GA",
       "targetFramework": ".NET Framework",
@@ -10,7 +10,7 @@
     },
     "v1-prerelease": {
       "release": "1.13.0",
-      "displayName": "Azure Functions v1 Prerelease (.NET Framework)",
+      "displayName": ".NET Framework",
       "displayVersion": "v1",
       "releaseQuality": "Prerelease",
       "targetFramework": ".NET Framework",
@@ -18,7 +18,7 @@
     },
     "v2": {
       "release": "2.60.0",
-      "displayName": "Azure Functions v2 (.NET Core)",
+      "displayName": ".NET Core 2.1",
       "displayVersion": "v2",
       "releaseQuality": "GA",
       "targetFramework": ".NET Core",
@@ -26,7 +26,7 @@
     },
     "v2-prerelease": {
       "release": "2.60.0",
-      "displayName": "Azure Functions v2 Prerelease (.NET Core)",
+      "displayName": ".NET Core 2.1",
       "displayVersion": "v2",
       "releaseQuality": "Prerelease",
       "targetFramework": ".NET Core",
@@ -34,7 +34,7 @@
     },
     "v2-preview": {
       "release": "2.60.0",
-      "displayName": "Azure Functions v2 Preview (.NET Core)",
+      "displayName": ".NET Core 2.1",
       "displayVersion": "v2",
       "releaseQuality": "Preview",
       "targetFramework": ".NET Core",
@@ -42,7 +42,7 @@
     },
     "v3-preview": {
       "release": "3.18.0",
-      "displayName": "Azure Functions v3 Preview (.NET Core)",
+      "displayName": ".NET Core 3.1",
       "displayVersion": "v3",
       "releaseQuality": "Preview",
       "targetFramework": ".NET Core",
@@ -50,7 +50,7 @@
     },
     "v3-prerelease": {
       "release": "3.18.0",
-      "displayName": "Azure Functions v3 Prerelease (.NET Core)",
+      "displayName": ".NET Core 3.1",
       "displayVersion": "v3",
       "releaseQuality": "Prerelease",
       "targetFramework": ".NET Core",
@@ -58,7 +58,7 @@
     },
     "v3": {
       "release": "3.18.0",
-      "displayName": "Azure Functions v3 (.NET Core)",
+      "displayName": ".NET Core 3.1",
       "displayVersion": "v3",
       "releaseQuality": "GA",
       "targetFramework": ".NET Core",
@@ -66,7 +66,7 @@
     },
     "v3-net5": {
       "release": "3.18.0",
-      "displayName": "Azure Functions v3 (.NET 5)",
+      "displayName": ".NET 5 (isolated)",
       "displayVersion": "v3",
       "releaseQuality": "Preview",
       "targetFramework": ".NET 5",
